@@ -1,1 +1,1 @@
-# GeeksForGeeks_Problems
+# LeetCode_Problems
